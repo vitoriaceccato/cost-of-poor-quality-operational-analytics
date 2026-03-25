@@ -8,6 +8,8 @@ What operational factors structurally drive production inefficiency, quality los
 ## 📊 Dashboard Preview
 Power BI dashboard summarizing production performance, defect trends, Cost of Poor Quality (COPQ) drivers and the relationship between process downtime and operational lead time.
 
+<img width="721" height="403" alt="dashboard_overview" src="https://github.com/vitoriaceccato/cost-of-poor-quality-operational-analytics/blob/main/images/dashboard_overview.png" />
+
 ---
 
 ## 📊 Dataset
