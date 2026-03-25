@@ -62,18 +62,18 @@ manufacturing-operational-performance-dashboard
 ---
 
 ## 🛠 Methods
-Power BI data modeling
-KPI-driven operational analytics
-Manufacturing performance diagnostics
-Downtime vs lead time relationship analysis
-Visual storytelling for industrial decision support
+- Power BI data modeling
+- KPI-driven operational analytics
+- Manufacturing performance diagnostics
+- Downtime vs lead time relationship analysis
+- Visual storytelling for industrial decision support
 
 ---
 
 ## 📈 Skills Demonstrated
-Operational analytics
-Manufacturing performance evaluation
-Quality cost analysis (COPQ)
-Process bottleneck identification
-Executive dashboard design
-Data storytelling for operational decision-making
+- Operational analytics
+- Manufacturing performance evaluation
+- Quality cost analysis (COPQ)
+- Process bottleneck identification
+- Executive dashboard design
+- Data storytelling for operational decision-making
