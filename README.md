@@ -1,4 +1,4 @@
-### 📦 Manufacturing Operational Performance Analysis
+# 📦 Manufacturing Operational Performance Analysis
 
 ## 🎯 Business Question
 What operational factors structurally drive production inefficiency, quality losses and increased lead time in manufacturing processes?
