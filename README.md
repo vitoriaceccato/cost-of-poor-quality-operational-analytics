@@ -1,38 +1,77 @@
-# Manufacturing Operational Performance Dashboard
+### 📦 Manufacturing Operational Performance Analysis
 
-## 📊 Project Overview
+## 🎯 Business Question
+What operational factors structurally drive production inefficiency, quality losses and increased lead time in manufacturing processes?
 
-This project presents an operational analytics dashboard developed in Power BI to monitor manufacturing performance.
+---
 
-The dashboard evaluates production efficiency, quality indicators and Cost of Poor Quality (COPQ), supporting data-driven decision-making in industrial environments.
+## 📊 Dashboard Preview
+Power BI dashboard summarizing production performance, defect trends, Cost of Poor Quality (COPQ) drivers and the relationship between process downtime and operational lead time.
 
-## 🎯 Business Objectives
+---
 
-* Track total production volume and defect rate evolution
-* Identify main contributors to Cost of Poor Quality (scrap and rework)
-* Analyze process downtime impact on operational lead time
-* Support continuous improvement initiatives in manufacturing operations
+## 📊 Dataset
+Simulated industrial production dataset (Jan–Dec 2024)
+Grain: aggregated operational indicators by product and process
+Primary metrics: defect rate, downtime hours, COPQ and average lead time
 
-## 🔎 Key Insights
+---
 
-* Product D is the main COPQ driver, indicating higher scrap and rework levels
-* Machining & Finishing represents the largest downtime source in the production flow
-* Increased downtime is associated with longer lead times
-* Defect rates show a gradual reduction trend over the analyzed period
+## 🔎 Core Findings
 
-## 🛠️ Tools & Techniques
+1️⃣ Quality losses are product-driven
+Product D presents the highest contribution to Cost of Poor Quality due to elevated scrap and rework levels.
 
-* Power BI
-* KPI design for operational monitoring
-* Manufacturing performance analytics
-* Visual data storytelling
-* Descriptive operational analysis
+2️⃣ Downtime is concentrated in critical production stages
+Machining & Finishing represents the largest share of total operational downtime, indicating higher process complexity and disruption risk.
 
-## 📸 Dashboard Preview
+3️⃣ Operational instability increases lead time
+Higher downtime levels are consistently associated with longer production lead times, suggesting structural inefficiencies in process flow.
 
-(Add dashboard screenshots here)
+4️⃣ Quality performance shows gradual improvement
+Defect rates demonstrate a downward trend across the year, indicating the impact of ongoing quality control initiatives.
 
-## 📁 Repository Contents
+5️⃣ COPQ concentration increases operational pressure
+A small group of products concentrates most quality-related costs, creating disproportionate impact on overall manufacturing efficiency.
 
-* `operational-performance-dashboard.pbix` → Full interactive dashboard file
+---
 
+## 🏆 Strategic Conclusion
+Manufacturing inefficiencies are structurally linked to process downtime and product-specific quality losses rather than uniform performance degradation across the production system.
+
+Operational prioritization focused on critical processes and high-COPQ products offers the greatest leverage for performance improvement.
+
+---
+
+## 📁 Project Structure
+```text
+manufacturing-operational-performance-dashboard
+│
+├── dashboard/
+│ └── operational-performance-dashboard.pbix
+│
+├── images/
+│ ├── dashboard-executive-view.png
+│ ├── quality-performance-analysis.png
+│ └── operational-efficiency-analysis.png
+│
+└── README.md
+```
+---
+
+## 🛠 Methods
+Power BI data modeling
+KPI-driven operational analytics
+Manufacturing performance diagnostics
+Downtime vs lead time relationship analysis
+Visual storytelling for industrial decision support
+
+---
+
+## 📈 Skills Demonstrated
+Operational analytics
+Manufacturing performance evaluation
+Quality cost analysis (COPQ)
+Process bottleneck identification
+Executive dashboard design
+Data storytelling for operational decision-making
